@@ -4,7 +4,7 @@ This is the official PyTorch implementation of the paper [''CreativeSynth: Creat
 
 The code coming soon!
 
-![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/teaser1.png)
+![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/representative_image2.jpg)
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup7.png)
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup12.png)
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup8.png)
