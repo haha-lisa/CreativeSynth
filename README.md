@@ -5,6 +5,18 @@ This is the official PyTorch implementation of the paper [''CreativeSynth: Creat
 The code coming soon!
 
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/representative_image2.jpg)
+
+##citation
+If you find our work is useful in your research, please consider citing:
+```
+@article{huang2024creativesynth,
+  title={CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion},
+  author={Huang, Nisha and Dong, Weiming and Zhang, Yuxin and Tang, Fan and Li, Ronghui and Ma, Chongyang and Li, Xiu and Xu, Changsheng},
+  journal={arXiv preprint arXiv:2401.14066},
+  year={2024}
+}
+```
+
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup7.png)
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup12.png)
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/sup8.png)
