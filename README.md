@@ -6,7 +6,7 @@ The code coming soon!
 
 ![MAIN3_e2-min](https://github.com/haha-lisa/CreativeSynth/blob/main/representative_image2.jpg)
 
-##citation
+## citation
 If you find our work is useful in your research, please consider citing:
 ```
 @article{huang2024creativesynth,
