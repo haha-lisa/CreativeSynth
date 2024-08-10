@@ -11,7 +11,8 @@ If you find our work is useful in your research, please consider citing:
 ```
 @article{huang2024creativesynth,
   title={CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion},
-  author={Huang, Nisha and Dong, Weiming and Zhang, Yuxin and Tang, Fan and Li, Ronghui and Ma, Chongyang and Li, Xiu and Xu, Changsheng},
+  author={Huang, Nisha and Dong, Weiming and Zhang, Yuxin and Tang, Fan and Li, Ronghui and Ma, Chongyang and Li, Xiu and
+ Lee, Tong-Yee and Xu, Changsheng},
   journal={arXiv preprint arXiv:2401.14066},
   year={2024}
 }
