@@ -1,6 +1,6 @@
 # CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion
 
-This is the official PyTorch implementation of the paper [paper](https://arxiv.org/pdf/2401.15636).
+This is the official PyTorch implementation of the [paper](https://arxiv.org/pdf/2401.14066).
 For more information see the [project page](https://haha-lisa.github.io/creativesynth.github.io/).
 
 
